@@ -6,4 +6,7 @@ n=4
 for i in range(0, n):
 	print('{}{}'.format(x*(n-i-1),"#"*(i+1)))
 
+def sum(x,y):
+	return x+y
+
 
