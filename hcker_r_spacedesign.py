@@ -9,4 +9,5 @@ for i in range(0, n):
 def sum(x,y):
 	return x+y
 
-
+def divide(x,y):
+	return x/y
